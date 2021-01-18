@@ -51,7 +51,7 @@ Dernière version stable : 1.0
 
 Dernière version : 1.0 
 
-Liste des versions : Cliquer pour afficher (pour le lien mettez simplement l'URL de votre projets suivi de /tags)
+Liste des versions : [Cliquer pour afficher](https://github.com/drucimimi/voyage/tags)
 
 ## Auteurs
 Drucilla DEROCHE
