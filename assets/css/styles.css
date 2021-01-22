@@ -3,6 +3,16 @@
   margin: 0;
   padding: 0;
 }
+@font-face {
+  font-family: 'Crete Round';
+  src: local('Crete Round Regular'), local('Crete-Round-Regular'),
+      url('../fonts/creteround/CreteRound-Regular.woff2') format('woff2'),
+      url('../fonts/creteround/CreteRound-Regular.woff') format('woff'),
+      url('../fonts/creteround/CreteRound-Regular.ttf') format('truetype'),
+      url('../fonts/creteround/CreteRound-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: 400;
+  font-style: normal;
+}
 body{
   font-family: Arial, sans-serif;
   font-size: 15px;
