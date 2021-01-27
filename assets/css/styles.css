@@ -81,7 +81,7 @@ header .nav a{
 /* MAIN IMAGE */
 #main-image{
   height: 580px;
-  background: url('../img/main.jpg') center;
+  background: #efefef url('../img/main.jpg') center;
 }
 #main-image h2{
   font-weight: normal;
@@ -102,7 +102,7 @@ header .nav a{
   text-align: center;
   border-radius: 3px;
 }
-.button-1:hover{
+.button-1:hover, .button-1:focus{
   background-color: #02b8dd;
 }
 
@@ -125,13 +125,13 @@ header .nav a{
   margin-bottom: 20px;
 }
 #step-1{
-  background: url('../img/steps-icon-1.png') no-repeat top center;
+  background: #efefef url('../img/steps-icon-1.png') no-repeat top center;
 }
 #step-2{
-  background: url('../img/steps-icon-2.png') no-repeat top center;
+  background: #efefef url('../img/steps-icon-2.png') no-repeat top center;
 }
 #step-3{
-  background: url('../img/steps-icon-3.png') no-repeat top center;
+  background: #efefef url('../img/steps-icon-3.png') no-repeat top center;
 }
 
 /* possibilities */
@@ -176,7 +176,7 @@ article h4{
   padding: 6px 20px;
   border-radius: 3px;
 }
-.button-2:hover{
+.button-2:hover, .button-2:focus{
  background-color: #02b8dd;
 }
 
@@ -218,7 +218,7 @@ input[type="text"]{
   border-style: none;
   border-radius: 3px;
 }
-.button-3:hover{
+.button-3:hover, .button-3:focus{
   color: #fff;
   background-color: #444;
 }
