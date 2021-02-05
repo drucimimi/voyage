@@ -47,9 +47,9 @@ Pour lancer le projet en local, lancer le fichier index.html avec votre navigate
 HTML5/CSS3
 
 ## Versions
-Dernière version stable : 1.0.4
+Dernière version stable : 1.0.3
 
-Dernière version : 1.0.4
+Dernière version : 1.0.3 
 
 Liste des versions : [Cliquer pour afficher](https://github.com/drucimimi/voyage/tags)
 
